@@ -1,1 +1,4 @@
-部分java高级特性example
+部分java高级特性example  
+##泛型的用法
+##泛型类
+##类型通配符
