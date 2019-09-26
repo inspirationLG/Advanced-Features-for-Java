@@ -1,6 +1,4 @@
-package com.generics;
-
-import java.time.LocalDate;
+package com.GenericsExc;
 
 /**
  * @Author:Hchien Ying

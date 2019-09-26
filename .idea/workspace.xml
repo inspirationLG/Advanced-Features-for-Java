@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4f79644-0583-4bd3-a586-6990457a9f5e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/StringExc/StringExc1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c4f79644-0583-4bd3-a586-6990457a9f5e" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,8 +26,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/StringExc/StringExc1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+            <state relative-caret-position="242">
+              <caret line="11" column="44" lean-forward="true" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -109,24 +106,6 @@
             </path>
             <path>
               <item name="javaBase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaBase" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaBase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaBase" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaBase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaBase" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="StringExc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaBase" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
@@ -158,13 +137,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringExc1">
-    <configuration name="Box" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.generics.Box" />
+  <component name="RunManager" selected="Application.ArrayExc1">
+    <configuration name="ArrayExc1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ArrayExc.ArrayExc1" />
       <module name="javaBase" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.generics.*" />
+          <option name="PATTERN" value="com.ArrayExc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Box" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.GenericsExc.Box" />
+      <module name="javaBase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.GenericsExc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,11 +165,11 @@
       </method>
     </configuration>
     <configuration name="GenericMethodTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.generics.GenericMethodTest" />
+      <option name="MAIN_CLASS_NAME" value="com.GenericsExc.GenericMethodTest" />
       <module name="javaBase" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.generics.*" />
+          <option name="PATTERN" value="com.GenericsExc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,11 +178,11 @@
       </method>
     </configuration>
     <configuration name="GenericTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.generics.GenericTest" />
+      <option name="MAIN_CLASS_NAME" value="com.GenericsExc.GenericTest" />
       <module name="javaBase" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.generics.*" />
+          <option name="PATTERN" value="com.GenericsExc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -222,6 +214,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayExc1" />
         <item itemvalue="Application.StringExc1" />
         <item itemvalue="Application.GenericTest" />
         <item itemvalue="Application.Box" />
@@ -244,16 +237,15 @@
       <workItem from="1565156948325" duration="1558000" />
       <workItem from="1565601646281" duration="4760000" />
       <workItem from="1567994355138" duration="598000" />
-      <workItem from="1569467258674" duration="1131000" />
+      <workItem from="1569467258674" duration="1812000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8807000" />
+    <option name="totallyTimeSpent" value="9488000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12600537" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -264,7 +256,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.32719547" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.32719547" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -272,7 +264,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="GraphQL" order="8" weight="0.3295129" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32577905" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32577905" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067025" side_tool="true" weight="0.32956153" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.3295129" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32956153" />
@@ -331,8 +323,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/StringExc/StringExc1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        <state relative-caret-position="242">
+          <caret line="11" column="44" lean-forward="true" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
         </state>
       </provider>
     </entry>

@@ -1,4 +1,4 @@
-package com.generics;
+package com.GenericsExc;
 
 /**
  * @Author:Hchien Ying
