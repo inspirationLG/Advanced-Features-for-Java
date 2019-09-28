@@ -1,10 +1,13 @@
+/*
 package com.OOP;
 
+*/
 /**
  * @Author:Hchien Ying
  * @date:2019/9/26
  * @description:
- */
+ *//*
+
 public class parameterExc2 {
     public static void main(String[] args) {
         Person p = new Person();
@@ -26,3 +29,4 @@ class Person {
         this.name = name;
     }
 }
+*/
