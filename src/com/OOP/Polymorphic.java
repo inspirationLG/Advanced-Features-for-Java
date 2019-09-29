@@ -17,7 +17,7 @@ class Person {
         System.out.println("Person.run");
     }
 }
-硕士生sss
+
 class Student extends Person {
     @Override
     public void run() {
