@@ -11,7 +11,7 @@ public class Polymorphic {
         p.run(); // 应该打印Person.run还是Student.run?
     }
 }
-z
+
 class Person {
     public void run() {
         System.out.println("Person.run");
