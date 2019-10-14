@@ -16,7 +16,7 @@ public class Polymorphic {
 
 class Person {
     public void run() {zzz
-        System.out.println32321321("Person.run");
+        System.out.println("Person.run");
     }
 }
 
