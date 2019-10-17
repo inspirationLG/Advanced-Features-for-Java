@@ -20,7 +20,7 @@ public class JavaBeanExc1 {public static void main(String[] args) throws Excepti
 }
 class Person {
     private String name;
-    private int age;
+    private int age;22
 
     public String getName() {
         return name;
