@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4f79644-0583-4bd3-a586-6990457a9f5e" name="Default Changelist" comment="" />
+    <list default="true" id="c4f79644-0583-4bd3-a586-6990457a9f5e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -104,8 +106,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/javabeanExc/JavaBeanExc1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="185">
+              <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#844#845#0" expanded="true" />
@@ -153,7 +155,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="945" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
@@ -166,7 +168,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -204,7 +206,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -345,6 +347,9 @@
       <workItem from="1571219430725" duration="4385000" />
       <workItem from="1571311019820" duration="871000" />
       <workItem from="1571374068077" duration="657000" />
+      <workItem from="1571471205036" duration="632000" />
+      <workItem from="1571490943793" duration="716000" />
+      <workItem from="1571569560645" duration="591000" />
     </task>
     <task id="LOCAL-00001" summary="format test1">
       <created>1569498242533</created>
@@ -392,13 +397,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35721000" />
+    <option name="totallyTimeSpent" value="37660000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17962466" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09182306" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -415,7 +419,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="GraphQL" order="8" weight="0.3286119" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32577905" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32294616" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067025" side_tool="true" weight="0.32956153" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.3286119" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32956153" />
@@ -573,8 +577,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javabeanExc/JavaBeanExc1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="185">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#844#845#0" expanded="true" />
