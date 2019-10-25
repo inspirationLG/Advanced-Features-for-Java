@@ -32,7 +32,7 @@ class Person {
 
     public int getAge() {
         return age;
-    }222
+    }
 
     public void setAge(int age) {
         this.age = age;
