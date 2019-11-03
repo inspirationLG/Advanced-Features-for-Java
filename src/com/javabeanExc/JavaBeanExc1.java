@@ -20,9 +20,9 @@ public class JavaBeanExc1 {public static void main(String[] args) throws Excepti
 }
 class Person {
     private String name;
-    private int age;2
+    private int age;
 
-    public String 222getName() {
+    public String getName() {
         return name;
     }
 
