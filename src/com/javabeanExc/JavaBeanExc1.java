@@ -21,7 +21,7 @@ public class JavaBeanExc1 {public static void main(String[] args) throws Excepti
 class Person {
     private String name;
     private int age;
-
+222
     public String getName() {
         return name;
     }
