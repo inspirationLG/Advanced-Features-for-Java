@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4f79644-0583-4bd3-a586-6990457a9f5e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javabeanExc/JavaBeanExc1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javabeanExc/JavaBeanExc1.java" afterDir="false" />
-    </list>
+    <list default="true" id="c4f79644-0583-4bd3-a586-6990457a9f5e" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -107,8 +104,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/javabeanExc/JavaBeanExc1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="35" column="3" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
+            <state relative-caret-position="125">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#724#725#0" expanded="true" />
@@ -190,13 +187,6 @@
             </path>
             <path>
               <item name="javaBase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaBase" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="javabeanExc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaBase" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
@@ -230,7 +220,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JavaBeanExc1">
+  <component name="RunManager" selected="Application.reflection01">
     <configuration name="DuoTai" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.OOP.DuoTai" />
       <module name="javaBase" />
@@ -270,8 +260,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="parameterExc1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.OOP.parameterExc1" />
+    <configuration name="parameterExc2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.OOP.parameterExc2" />
       <module name="javaBase" />
       <extension name="coverage">
         <pattern>
@@ -283,12 +273,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="parameterExc2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.OOP.parameterExc2" />
+    <configuration name="reflection01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Reflection.reflection01" />
       <module name="javaBase" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.OOP.*" />
+          <option name="PATTERN" value="com.Reflection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -307,11 +297,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.reflection01" />
         <item itemvalue="Application.JavaBeanExc1" />
         <item itemvalue="Application.StringExc3" />
         <item itemvalue="Application.DuoTai" />
         <item itemvalue="Application.parameterExc2" />
-        <item itemvalue="Application.parameterExc1" />
       </list>
     </recent_temporary>
   </component>
@@ -369,7 +359,7 @@
       <workItem from="1573870615898" duration="1195000" />
       <workItem from="1573994315430" duration="663000" />
       <workItem from="1574080837369" duration="961000" />
-      <workItem from="1574247980139" duration="1223000" />
+      <workItem from="1574247980139" duration="1870000" />
     </task>
     <task id="LOCAL-00001" summary="format test1">
       <created>1569498242533</created>
@@ -417,12 +407,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58501000" />
+    <option name="totallyTimeSpent" value="59148000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.02010724" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1621984" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -439,7 +429,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="GraphQL" order="8" weight="0.3286119" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.31444758" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.31444758" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067025" side_tool="true" weight="0.32956153" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.3286119" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32956153" />
@@ -597,8 +587,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javabeanExc/JavaBeanExc1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="35" column="3" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
+        <state relative-caret-position="125">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#724#725#0" expanded="true" />
