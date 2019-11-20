@@ -107,8 +107,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/javabeanExc/JavaBeanExc1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="31" column="3" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
+            <state relative-caret-position="301">
+              <caret line="35" column="3" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#724#725#0" expanded="true" />
@@ -369,7 +369,7 @@
       <workItem from="1573870615898" duration="1195000" />
       <workItem from="1573994315430" duration="663000" />
       <workItem from="1574080837369" duration="961000" />
-      <workItem from="1574247980139" duration="598000" />
+      <workItem from="1574247980139" duration="1223000" />
     </task>
     <task id="LOCAL-00001" summary="format test1">
       <created>1569498242533</created>
@@ -417,11 +417,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57876000" />
+    <option name="totallyTimeSpent" value="58501000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.02010724" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -598,8 +597,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javabeanExc/JavaBeanExc1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="31" column="3" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
+        <state relative-caret-position="301">
+          <caret line="35" column="3" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#724#725#0" expanded="true" />
