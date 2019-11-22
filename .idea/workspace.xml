@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4f79644-0583-4bd3-a586-6990457a9f5e" name="Default Changelist" comment="" />
+    <list default="true" id="c4f79644-0583-4bd3-a586-6990457a9f5e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,15 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/FormatExc/FormatExc1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ScannerExc/ScannerExc1.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -101,16 +94,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/javabeanExc/JavaBeanExc1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="462">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#724#725#0" expanded="true" />
                 <element signature="e#756#757#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/Reflection/reflection01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -150,6 +152,7 @@
         <option value="$PROJECT_DIR$/src/com/OOP/Polymorphic.java" />
         <option value="$PROJECT_DIR$/src/com/StringExc/StringExc3.java" />
         <option value="$PROJECT_DIR$/src/com/javabeanExc/JavaBeanExc1.java" />
+        <option value="$PROJECT_DIR$/src/com/Reflection/reflection01.java" />
       </list>
     </option>
   </component>
@@ -166,6 +169,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -187,6 +191,13 @@
             </path>
             <path>
               <item name="javaBase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaBase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="Reflection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaBase" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
@@ -197,7 +208,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -359,7 +369,8 @@
       <workItem from="1573870615898" duration="1195000" />
       <workItem from="1573994315430" duration="663000" />
       <workItem from="1574080837369" duration="961000" />
-      <workItem from="1574247980139" duration="1870000" />
+      <workItem from="1574247980139" duration="2221000" />
+      <workItem from="1574389735355" duration="591000" />
     </task>
     <task id="LOCAL-00001" summary="format test1">
       <created>1569498242533</created>
@@ -407,12 +418,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59148000" />
+    <option name="totallyTimeSpent" value="60090000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1621984" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16420911" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -421,7 +432,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.22946176" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.20538244" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -429,7 +440,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="GraphQL" order="8" weight="0.3286119" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.31444758" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.31444758" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067025" side_tool="true" weight="0.32956153" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.3286119" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32956153" />
@@ -587,13 +598,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javabeanExc/JavaBeanExc1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="462">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#724#725#0" expanded="true" />
             <element signature="e#756#757#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Reflection/reflection01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
         </state>
       </provider>
     </entry>
