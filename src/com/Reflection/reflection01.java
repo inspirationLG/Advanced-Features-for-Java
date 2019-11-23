@@ -17,7 +17,7 @@ public class reflection01 {
     static void printClassInfo(Class cls) {
         System.out.println("Class name: " + cls.getName());
         System.out.println("Simple name: " + cls.getSimpleName());
-        if (cls.ge222tPackage() != null) {
+        if (cls.getPackage() != null) {
             System.out.println("Package name: " + cls.getPackage().getName());
         }
         System.out.println("is interface: " + cls.isInterface());
