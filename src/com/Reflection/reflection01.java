@@ -16,7 +16,7 @@ public class reflection01 {
 
     static void printClassInfo(Class cls) {
         System.out.println("Class name: " + cls.getName());
-        System.out.println("Simple name: " + cls.getSimpleName());
+        System.out.println("Simple name: " + cls.getSimpleName());888
         if (cls.getPackage() != null) {
             System.out.println("Package name: " + cls.getPackage().getName());
         }

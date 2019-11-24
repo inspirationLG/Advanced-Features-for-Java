@@ -113,7 +113,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/Reflection/reflection01.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="304">
-              <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+              <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -373,7 +373,7 @@
       <workItem from="1574247980139" duration="2221000" />
       <workItem from="1574389735355" duration="591000" />
       <workItem from="1574425262651" duration="709000" />
-      <workItem from="1574497070314" duration="607000" />
+      <workItem from="1574497070314" duration="638000" />
     </task>
     <task id="LOCAL-00001" summary="format test1">
       <created>1569498242533</created>
@@ -421,7 +421,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61406000" />
+    <option name="totallyTimeSpent" value="61437000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -614,7 +614,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/Reflection/reflection01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
-          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+          <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
         </state>
       </provider>
     </entry>
