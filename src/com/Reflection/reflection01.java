@@ -24,6 +24,6 @@ public class reflection01 {
         System.out.println("is enum: " + cls.isEnum());
         System.out.println("is array: " + cls.isArray());
         System.out.println("is primitive: " + cls.isPrimitive());
-    }
+    }q
 }
 
